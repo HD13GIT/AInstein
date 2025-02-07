@@ -1,0 +1,6 @@
+tweepy
+openai
+pycoingecko
+requests
+flask
+flask-limiter
